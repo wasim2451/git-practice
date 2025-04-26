@@ -10,3 +10,7 @@ console.log(sum);
 
 const c="WASIM AKHTAR KHAN";
 const x="XYZ";
+function sayName(){
+    console.log(s);
+}
+sayName();
