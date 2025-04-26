@@ -9,3 +9,4 @@ const sum=a+b;
 console.log(sum);
 
 const c="WASIM AKHTAR KHAN";
+const x="XYZ";
