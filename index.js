@@ -20,3 +20,4 @@ sayName();
  function newFeature2(){
     console.log('New Feature 2');
  }
+ const v=10;
