@@ -14,3 +14,9 @@ function sayName(){
     console.log(s);
 }
 sayName();
+ function newFeature(){
+    console.log('New Feature 1');
+ }
+ function newFeature2(){
+    console.log('New Feature 2');
+ }
